@@ -1,0 +1,5 @@
+*.py linguist-language=Python
+*.ipynb linguist-language=Python
+
+# 不统计 Matlab 文件
+*.m linguist-vendored
