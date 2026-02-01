@@ -1,9 +1,6 @@
 # Physics-Informed Periodic Neural Networks for Excitation Trajectory Optimization in Dynamic Identification
 
-<video width="800" controls>
-  <source src="video/PIPNN_traj.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![PIPNN Trajectory](PIPNN_traj.gif)
 
 This repository contains the official implementation and experimental code for the paper **Physics-Informed Periodic Neural Networks for Excitation Trajectory Optimization in Dynamic Identification**, which proposes a PIPNN-based approach for excitation trajectory design in robotic manipulator dynamics identification.
 
